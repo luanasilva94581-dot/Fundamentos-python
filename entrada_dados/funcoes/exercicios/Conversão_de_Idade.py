@@ -5,4 +5,4 @@ def idade()
     print(f'meses')
     print(f'dias')
 
-idade() 
+idade()
