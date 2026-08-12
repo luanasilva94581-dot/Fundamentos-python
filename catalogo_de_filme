@@ -1,0 +1,37 @@
+Projeto de Catálogo de filme
+Nome do projeto
+Desenvolvedor Luana
+
+1. Objetivo do sistema
+o sistema vai ser para avaliar e fazer anotações sobre o filmes de forma organizada e bonito
+
+2. Requisitos Funcionais (RF)
+RF01– O sistema deve conter sistem de login com senha e usuário.
+para fazer o login sera necessário:
+
+nome completo
+
+Email
+
+senha
+RF02- O cadastro do filme sera feito de seguinte maneira, o usuário podera cadastrar o filme:
+
+Titulo
+
+Enrredo do filme
+
+Capa do filme
+
+Lancamento
+
+Gênero
+
+Avaliação do filme
+
+RF03- O sistem deve permitir que a pessoa consiga editar todos os filmes cadastrados, editar capa, avaliação e qualquer informação do filme podendo também excluir os filmes cadastrados
+
+3. Requisito não funcional (RNF)
+RNF01- O sistema deve salvar todos os filmes cadastrados E mostrar em ordem que eles foram assitido por último, mas os filmes favoritos deve estar sempre em primeiro
+
+4. Requisito não funcional (RNF)
+RNF02 Somente o usuario autenticado poderá visualizar e modificar sua coleção
